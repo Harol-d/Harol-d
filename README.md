@@ -1,4 +1,7 @@
-<h2 align="left">Lenguajes</h2>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+<p style="font-family: 'JetBrains Mono';">Soy un Desarollador de sofware interesado y apasionado por aprender sobre el mundo de la tecnologia, tanto desde la web, cloud, api's hasta los sistemas operativos. Como hobie principal me gusta personalizar linux, me gusta sentir que el sistema es mio y que soy libre de hacer cualquier cosa en el</p>
+<h2 align="left" style="font-family: 'JetBrains Mono';">Lenguajes</h2>
 
 ###
 
@@ -11,7 +14,7 @@
   <img src="https://img.shields.io/static/v1?message=php&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="php logo"/>
 </div>
 
-<h2 align="left">Skills</h2>
+<h2 align="left" style="font-family: 'JetBrains Mono';">Skills</h2>
 <div align="left">
     <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=e44c30&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"/>
     <img src="https://img.shields.io/static/v1?message=docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="docker logo"/>
