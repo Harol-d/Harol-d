@@ -4,7 +4,7 @@
 
 <div align="left">
   
-  <img src="https://img.shields.io/static/v1?message=Bash&logo=GNU Bash&label=&color=4EAA25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bash logo"/>
+  <img src="https://img.shields.io/static/v1?message=Bash&logo=GNUBash&label=&color=4EAA25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bash logo"/>
   <img src="https://img.shields.io/static/v1?message=python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo"/>
   <img src="https://img.shields.io/static/v1?message=html&logo=html5&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html logo"/>
   <img src="https://img.shields.io/static/v1?message=Css&logo=CSS&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="css logo"/>
