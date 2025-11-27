@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
 
-<p style="font-family: 'JetBrains Mono';">Soy un Desarollador de sofware interesado y apasionado por aprender sobre el mundo de la tecnologia, tanto desde la web, cloud, api's hasta los sistemas operativos. Como hobie principal me gusta personalizar linux, me gusta sentir que el sistema es mio y que soy libre de hacer cualquier cosa en el</p>
+<p style="font-family: 'JetBrains Mono';">Soy un Desarollador de sofware interesado y apasionado por aprender sobre el mundo de la tecnologia, tanto desde la web, cloud, api's hasta los sistemas operativos. Como hobby principal me gusta personalizar linux, me gusta sentir que el sistema es mio y que soy libre de hacer cualquier cosa en el. Ademas por aprender mas sobre el desarrollo de Software</p>
 <h2 align="left" style="font-family: 'JetBrains Mono';">Lenguajes</h2>
 
 ###
